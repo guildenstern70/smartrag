@@ -5,7 +5,8 @@ requires-python = ">=3.14"
 dependencies = [
     "langchain",
     "langchain-google-genai",
-    "langchain-community",
+    "langchain-chroma",
+    "langchain-text-splitters",
     "chromadb",
     "python-dotenv",
     "pypdf",
