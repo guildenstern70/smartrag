@@ -50,3 +50,6 @@ To reactivate the virtual environment in a new terminal session:
 source .venv/bin/activate
 ```
 
+This code has been created after the article at:
+https://www.freecodecamp.org/news/rag-explained-simply-with-a-real-project/
+
