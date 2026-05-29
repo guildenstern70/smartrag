@@ -9,4 +9,5 @@ dependencies = [
     "chromadb",
     "python-dotenv",
     "pypdf",
+    "pylint>=4.0.5",
 ]

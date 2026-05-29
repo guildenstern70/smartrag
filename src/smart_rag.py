@@ -1,3 +1,11 @@
+##
+## SmartRAG Project
+## (C) 2026 Alessio Saltarin
+##
+## License: MIT License
+##
+
+
 import os
 from dotenv import load_dotenv
 from langchain_community.document_loaders import PyPDFLoader
